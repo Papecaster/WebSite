@@ -9,6 +9,8 @@ import { GuitareListComponent } from './pages/guitare-list/guitare-list.componen
 import { LinksComponent } from './pages/links/links.component';
 import { ContactComponent } from './pages/contact/contact.component';
 import { ConditionsComponent } from './pages/conditions/conditions.component';
+import { CouteauComponent } from './pages/couteau/couteau.component';
+import { CouteauListComponent } from './pages/couteau-list/couteau-list.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { ConditionsComponent } from './pages/conditions/conditions.component';
     GuitareListComponent,
     LinksComponent,
     ContactComponent,
-    ConditionsComponent
+    ConditionsComponent,
+    CouteauComponent,
+    CouteauListComponent
   ],
   imports: [
     BrowserModule,
