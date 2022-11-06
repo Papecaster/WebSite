@@ -24,6 +24,7 @@
             ],
             "styles": [
               "src/styles.css",
+              "src/assets/fonts/fonts.css",
               "src/assets/css/bootstrap.min.css",
               "src/assets/css/fontawesome.min.css",
               "src/assets/css/magnific-popup.min.css",
@@ -103,5 +104,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }

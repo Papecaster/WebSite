@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 702 398" style="background: transparent; shape-rendering: auto;">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 702 398" style="background: transparent; shape-rendering: auto;" fill="CurrentColor">
   <path></path>
   <g class="ldl-layer" transform="matrix(1, 0, 0, 1, -18, -22)">
     <g class="ldl-ani">
@@ -17,7 +17,7 @@
                   <g style="transform-origin: 0px 199px 0px; animation: 1s linear 0s infinite normal forwards running bounceAlt-20fd2d5e-0f1f-43ba-93e9-6b0873447cf6; user-select: auto; perspective-origin: 351px 199px;" class="ldl-ani">
                     <g class="ldl-layer">
                       <g class="ldl-ani">
-                        <text class="papecaster" style="user-select: auto; font: 300 200px / 300px Brush Script MT; perspective-origin: 351px 199px;">Papecaster</text>
+                        <text class="papecaster">Papecaster</text>
                       </g>
                     </g>
                   </g>
@@ -160,7 +160,7 @@
       </g>
       <g class="ldl-layer" transform="matrix(1, 0, 0, 1, 0, 0)">
         <g class="ldl-ani">
-          <style style="display: none; user-select: auto; perspective-origin: 50% 50%;">
+          <style>
           .papecaster{
             font-size: 200px;
             font-family: Brush Script MT;
