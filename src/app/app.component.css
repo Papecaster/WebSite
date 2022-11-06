@@ -1,0 +1,7 @@
+.preloader>div{
+    height: 40%;
+    width: 100%;
+}
+.preloader #preloader{
+    height: 100%;
+}
